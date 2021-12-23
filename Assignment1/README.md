@@ -1,1 +1,1 @@
-Implementing methods and operators for Polynomial ADT 
+Implementing methods and operators for **Polynomial ADT**
