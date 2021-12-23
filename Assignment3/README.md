@@ -1,0 +1,2 @@
+- Implementing **Hash Table** based on Division Hash Function and Chaining
+- Implementing **Spell Checker** using Hash Table (with dictionary data)
